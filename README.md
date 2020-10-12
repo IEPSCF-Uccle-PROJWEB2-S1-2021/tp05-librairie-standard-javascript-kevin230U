@@ -83,7 +83,7 @@ Votre fonction reçoit les données en paramètre et retourne le résultat.
 #### Paramètres
 
 1. `quantity` : le nombre de températures à analyser.
-2. `data` : une chaine de caractères contenant les N températures exprimées sous la forme de nombres entiers allan de -273 à 5526.
+2. `data` : une chaine de caractères contenant les N températures exprimées sous la forme de nombres entiers allant de -273 à 5526.
 
 #### Retour
 
